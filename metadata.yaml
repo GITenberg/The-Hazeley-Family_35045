@@ -13,6 +13,8 @@ creator:
     gutenberg_agent_id: '32350'
     url: http://www.gutenberg.org/2009/agents/32350
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/35045#The-Hazeley-Family
 gutenberg_issued: '2011-01-23'
 gutenberg_type: Text
 identifiers:
