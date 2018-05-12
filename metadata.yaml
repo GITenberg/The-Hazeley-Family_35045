@@ -1,0 +1,29 @@
+_repo: The-Hazeley-Family_35045
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 35045-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Johnson, A. E. (Amelia E.)
+    aliases:
+    - Johnson, Amelia E. Hall
+    - Johnson, Mrs. Harvey
+    birthdate: 1859
+    gutenberg_agent_id: '32350'
+    url: http://www.gutenberg.org/2009/agents/32350
+description: ''
+gutenberg_issued: '2011-01-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35045'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'African American families -- Fiction'
+- !lcc 'PS'
+- !lcsh 'African American women -- Fiction'
+title: The Hazeley Family
+url: http://www.gutenberg.org/ebooks/35045
